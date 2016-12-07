@@ -1,6 +1,6 @@
 # letmesleep
-This script sets the wakeup toggle to disabled on a given PRODID
-Tis stops the device from being able to wakeup the computer from sleep.
+This script sets the wakeup toggle to disabled on a given PRODID.  
+This stops the device from being able to wakeup the computer from sleep.
 I did this so that my mouse didn't wake my laptop while it was in my bag.
 
 Tested in Fedora Core 24 with an Microsoft Mouse.
